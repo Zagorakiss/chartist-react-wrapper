@@ -29,5 +29,5 @@ node_modules
 .lock-wscript
 
 # Compiled files
-dist
+# dist
 example/bundle.js
